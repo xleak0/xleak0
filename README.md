@@ -9,7 +9,7 @@
 
 ## Profile views:
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=xleak0&label=Profile%20views&color=0e75b6&style=flat" alt="xleak0" />
+<img src="https://komarev.com/ghpvc/?username=xleak0&label=Profile%20views&color=0e75b6&style=flat&initial=10000" alt="xleak0" />
 </p>
 
 <h3 align="left">Languages and tools I use:</h3>
