@@ -9,6 +9,7 @@
 - 👀 I’m interested in deploying applications.
 - 🌱 I’m currently learning C# and C++.
 - ⚡ Fun fact: If I could go anywhere I want, I would go to Japan.
+- 📝 Note: I keep most of my projects private.
 
 <h3 align="left">Languages and Tools I use:</h3>
 
