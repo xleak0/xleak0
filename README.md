@@ -1,17 +1,18 @@
 <h1 align="center">Hi 👋, I'm Leak</h1>
 <h3 align="center">A developer from the Czech Republic</h3>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=xleak0&label=Profile%20views&color=0e75b6&style=flat" alt="xleak0" />
-</p>
-
 ## Hi, I’m Leak! 👋
 - 👀 I’m interested in deploying applications.
 - 🌱 I’m currently learning C# and C++.
 - ⚡ Fun fact: If I could go anywhere I want, I would go to Japan.
 - 📝 Note: I keep most of my projects private.
 
-<h3 align="left">Languages and Tools I use:</h3>
+## Profile views:
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=xleak0&label=Profile%20views&color=0e75b6&style=flat" alt="xleak0" />
+</p>
+
+<h3 align="left">Languages and tools I use:</h3>
 
 <p align="left">
   <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> 
