@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Leak</h1>
-<h3 align="center">A developer from the Czech Republic</h3>
+<h3 align="center">A developer from 🇨🇿</h3>
 
 ## Hi, I’m Leak! 👋
-- 👀 I’m interested in deploying applications.
-- 🌱 I’m currently learning C# and C++.
-- ⚡ Fun fact: If I could go anywhere I want, I would go to Japan.
+- 👀 I’m interested in <span style="text-decoration: underline; text-decoration-color: red;">deploying applications</span>.
+- 🌱 I’m currently learning <span style="color: blue;">C</span>.
+- ⚡ Fun fact: If I could go anywhere I want, I would go to 🇯🇵.
 - 📝 Note: I keep most of my projects private.
 
 ## Profile views:
