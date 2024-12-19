@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Leak</h1>
-<h3 align="center">A developer from 🇨🇿</h3>
+<h3 align="center">A developer from <img src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_Czech_Republic.svg" alt="Czech Republic Flag" width="20" height="15"></h3>
 
 ## Hi, I’m Leak! 👋
-- 👀 I’m interested in <span style="text-decoration: underline; text-decoration-color: red;">deploying applications</span>.
-- 🌱 I’m currently learning <span style="color: blue;">C</span>.
-- ⚡ Fun fact: If I could go anywhere I want, I would go to 🇯🇵.
+- 👀 I’m interested in <u style="color: red;">deploying applications</u>.
+- 🌱 I’m currently learning <span style="color: blue;"><u>C</u></span>.
+- ⚡ Fun fact: If I could go anywhere I want, I would go to <img src="https://upload.wikimedia.org/wikipedia/en/9/9e/Flag_of_Japan.svg" alt="Japan Flag" width="20" height="15">.
 - 📝 Note: I keep most of my projects private.
 
 ## Profile views:
