@@ -2,8 +2,8 @@
 <h3 align="center">A developer from <img src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_Czech_Republic.svg" alt="Czech Republic Flag" width="20" height="15"></h3>
 
 ## Hi, I’m Leak! 👋
-- 👀 I’m interested in <u style="color: red;">deploying applications</u>.
-- 🌱 I’m currently learning <span style="color: blue;"><u>C</u></span>.
+- 👀 I’m interested in <img src="https://via.placeholder.com/200x20/FFFFFF/FF0000?text=deploying+applications" alt="deploying applications with red underline" style="vertical-align: middle;" />.
+- 🌱 I’m currently learning <img src="https://via.placeholder.com/20x20/FFFFFF/0000FF?text=C" alt="blue C" style="vertical-align: middle;" />.
 - ⚡ Fun fact: If I could go anywhere I want, I would go to <img src="https://upload.wikimedia.org/wikipedia/en/9/9e/Flag_of_Japan.svg" alt="Japan Flag" width="20" height="15">.
 - 📝 Note: I keep most of my projects private.
 
